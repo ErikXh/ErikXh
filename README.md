@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErikXh
-- 👀 I’m interested in Web development and in th future App development!
+- 👀 I’m interested in Web development and in the near future App development!
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript and one of their Frameworks (Bootstrap and Jquery)
 - 📫 How to reach me erik.xheleshi@icloud.com
 
